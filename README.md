@@ -6,7 +6,7 @@ Notes Stuck sits in your system tray and stays out of the way until you need it.
 
 **[⬇ Download for Windows](https://github.com/stalonesyl/NotesStuck-releases/releases/latest/download/NotesStuck-win-Setup.exe)**
 
-[![Watch the one-minute tour](media/tour-preview.png)](media/notes-stuck-walkthrough.mp4)
+https://github.com/user-attachments/assets/15cc4efc-2806-41fc-8ea1-8d1c4159d845
 
 *Watch the one-minute tour: new notes, checklists, reminders, tags, All notes and history.*
 
